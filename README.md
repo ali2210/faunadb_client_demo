@@ -1,8 +1,8 @@
-# faunadb_client_demo [:boom:]
+# faunadb_client_demo :boom:
 
-   [:crocodile:] Fauna Database is an awesome data storage tool 
+   :crocodile: Fauna Database is an awesome data storage tool 
 
-# Output [:trophy:]
+# Output :trophy:
 
       "ref": Ref(Collection("equity_market"), "0"),
       "ts": 1656405406995000,
@@ -15,11 +15,11 @@
         }
     }
 
-# View [:dart:], [:diamonds:] 
+# View :dart:, :diamonds: 
 
         https://dashboard.fauna.com/indexes/today/@db/global/equity/equity_index
 
 
-# Transaction [:gem:]
+# Transaction :gem:
 
         bc1q4n65rrpzz04d2ax394e0j6wmh5ayc6lvffyxc    (bitaddress)
