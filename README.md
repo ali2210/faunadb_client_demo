@@ -1,4 +1,4 @@
-# faunadb_client_demo
+# faunadb_client_demo [:boom:]
 
    [:crocodile:] Fauna Database is an awesome data storage tool 
 
@@ -15,11 +15,11 @@
         }
     }
 
-# View [:dart:], [:diamond:]
+# View [:dart:], [:diamonds:] 
 
         https://dashboard.fauna.com/indexes/today/@db/global/equity/equity_index
 
 
-# Transaction
+# Transaction [:gem:]
 
         bc1q4n65rrpzz04d2ax394e0j6wmh5ayc6lvffyxc    (bitaddress)
